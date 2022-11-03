@@ -4,9 +4,7 @@ Hi 👋 My name is Allan
 Full Stack Software Developer
 -----------------------------
 
-IT Professional with over 7 years of experience specializing in IT Support. Detail-focused and result-oriented IT professional with extensive knowledge in troubleshooting IT-related issues and effective
-training skills. Dedicated, organized and self-directed team player with strong written, communication and relationship-building skills. Capable of identifying potential problems and providing
-recommendation for resolution.
+I work as an IT professional for over 7 years, I started as a help desk support and progressed to development. Working with the most diverse languages ​​(Javascript, HTML, CSS, BOOTSTRAP, PHP, Apsx, C# , Angular) as well as versioners (TFS , GIT).
 
 
 * 🌍  I'm based in Dublin, Ireland
