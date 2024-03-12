@@ -7,7 +7,7 @@ Full Stack Software Developer
 I work as an IT professional for over 7 years, I started as a help desk support and progressed to development. Working with the most diverse languages ​​(Javascript, HTML, CSS, BOOTSTRAP, PHP, Apsx, C# , Angular) as well as versioners (TFS , GIT).
 
 
-* 🌍  I'm based in Bali, Indonesia
+* 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [allandefranca@gmail.com](mailto:allandefranca@gmail.com)
 * 🧠  I'm learning Javascript, React JS.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
